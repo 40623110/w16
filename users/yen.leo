@@ -80,7 +80,7 @@
 <v t="leo.20171109011153.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171108230128.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171108230128.1"><vh>W7-W9</vh>
 <v t="leo.20171109013136.1"><vh>標題</vh>
 <v t="leo.20171109013144.1"><vh>內容</vh></v>
 </v>
@@ -95,6 +95,26 @@
 </v>
 <v t="leo.20171109025222.1" a="E"><vh>自評成績</vh>
 <v t="leo.20171109025237.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180104100118.1" a="E"><vh>w10-12</vh>
+<v t="leo.20180104100118.2" a="E"><vh>上課大綱</vh>
+<v t="leo.20180104100118.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100118.4" a="E"><vh>學習計算機輸入數字寫法</vh>
+<v t="leo.20180104100118.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100118.6" a="E"><vh>自訂義啟動與關閉</vh>
+<v t="leo.20180104100118.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100118.8" a="E"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
+<v t="leo.20180104100118.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100118.10" a="E"><vh>github創建</vh>
+<v t="leo.20180104100118.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100118.12" a="E"><vh>計算機表單繼承方法</vh>
+<v t="leo.20180104100118.13"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1" a="E"><vh>隨身碟內容介紹</vh>
@@ -658,6 +678,108 @@ width="500" height="300"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623110/raw/776338ab3efe00e7cfdad24cdd20a7332205e9bd4f452fbcf5fce4917c840714?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/776338ab3efe00e7cfdad24cdd20a7332205e9bd4f452fbcf5fce4917c840714?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623110/raw/08e27f82e6e2338bd45440b2133e74684788f95109024062db53416fc0840e49?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/08e27f82e6e2338bd45440b2133e74684788f95109024062db53416fc0840e49?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623110/raw/f40dba98c12bfa9d0148754826b10b9c28c3adf843954e43aebb600eeb720aef?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/f40dba98c12bfa9d0148754826b10b9c28c3adf843954e43aebb600eeb720aef?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180104100118.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.11"># github創建
+
+創建github帳號
+
+
+</t>
+<t tx="leo.20180104100118.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.13"># 計算機表單繼承方法 
+
+###學習如何繼承run.py與計算機按鈕
+
+
+</t>
+<t tx="leo.20180104100118.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.3"># W10-W12 檢討週
+
+* 學習計算機輸入數字寫法
+* 自訂義啟動與關閉
+* DiaPortable 與 GIMPPortable 的使用 
+* github創建
+* 計算機表單繼承方法
+
+</t>
+<t tx="leo.20180104100118.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.5">## 學習計算機輸入數字寫法
+
+(for迴圈簡化程式)
+
+```
+@language python
+    number = [self.one,  self.two,  self.three,   self.four,  self.five,
+      self.six,self.seven,  self.eight,  self.nine,  self.zero]
+        for i in number:
+            i.clicked.connect(self.digitClicked)
+```
+</t>
+<t tx="leo.20180104100118.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.7">### 自訂義啟動與關閉
+
+改寫star.bat與stop.bat成自訂義形式</t>
+<t tx="leo.20180104100118.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100118.9">### DiaPortable 與 GIMPPortable 的使用
+
+DiaPortable→用來畫箭頭
+
+GIMPPortable→用來剪裁圖片</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -833,7 +955,7 @@ vertical: body pane on the botton</t>
 Created by [40623110](http://kmolab.github.io/blog/)
 &lt;/small&gt;
 
-[CP 課程網誌](blog/index.html)
+[CP 課程網誌](https://40623110.github.io/w16/blog/index.html)
 
 
 </t>
