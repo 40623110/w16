@@ -117,6 +117,17 @@
 <v t="leo.20180104100118.13"><vh>內容</vh></v>
 </v>
 </v>
+<v t="leo.20180104100640.1" a="E"><vh>w13-15</vh>
+<v t="leo.20180104100640.2" a="E"><vh>上課大綱</vh>
+<v t="leo.20180104100640.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100640.4" a="E"><vh>創建EtherCalc表單</vh>
+<v t="leo.20180104100640.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20180104100640.6" a="E"><vh>與組員協同製作計算機基本功能</vh>
+<v t="leo.20180104100640.7"><vh>內容</vh></v>
+</v>
+</v>
 <v t="leo.20170911090822.1" a="E"><vh>隨身碟內容介紹</vh>
 <v t="leo.20170911090822.2"><vh>Win 64 位元專用</vh></v>
 </v>
@@ -696,9 +707,7 @@ width="500" height="300"&gt;&lt;/a&gt;
 </t>
 <t tx="leo.20180104100118.11"># github創建
 
-創建github帳號
-
-
+創建github帳號，建立一個新的repository來先熟悉github的基本操作跟設定方式。
 </t>
 <t tx="leo.20180104100118.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -765,7 +774,7 @@ width="500" height="300"&gt;&lt;/a&gt;
 </t>
 <t tx="leo.20180104100118.7">### 自訂義啟動與關閉
 
-改寫star.bat與stop.bat成自訂義形式</t>
+改寫start.bat與stop.bat成自訂義形式</t>
 <t tx="leo.20180104100118.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -780,6 +789,56 @@ width="500" height="300"&gt;&lt;/a&gt;
 DiaPortable→用來畫箭頭
 
 GIMPPortable→用來剪裁圖片</t>
+<t tx="leo.20180104100640.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100640.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100640.3"># W13-W15 專案執行週
+
+* 創建EtherCalc表單
+* 與組員協同製作計算機基本功能
+* 驗收計算機成果
+
+</t>
+<t tx="leo.20180104100640.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100640.5">## 創建EtherCalc表單
+
+創建EtherCalc表單
+
+用表格來記錄自己的概念、知識、執行力、自學力、想像力。
+</t>
+<t tx="leo.20180104100640.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180104100640.7">### 與組員協同製作計算機基本功能
+
+使用github協同製作計算機基本功能包括加減乘除、等於、小白點、發現並且排除衝突。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
