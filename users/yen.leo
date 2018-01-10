@@ -80,7 +80,7 @@
 <v t="leo.20171109011153.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171108230128.1"><vh>W7-W9</vh>
+<v t="leo.20171108230128.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171109013136.1" a="E"><vh>標題</vh>
 <v t="leo.20171109013144.1"><vh>內容</vh></v>
 </v>
@@ -126,6 +126,12 @@
 </v>
 <v t="leo.20180104100640.6" a="E"><vh>與組員協同製作計算機基本功能</vh>
 <v t="leo.20180104100640.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110220338.1" a="E"><vh>心得</vh>
+<v t="leo.20180110220421.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110220544.1" a="E"><vh>自評</vh>
+<v t="leo.20180110220544.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1" a="E"><vh>隨身碟內容介紹</vh>
@@ -827,11 +833,7 @@ GIMPPortable→用來剪裁圖片</t>
 
 用表格來記錄自己的概念、知識、執行力、自學力、想像力。
 </t>
-<t tx="leo.20180104100640.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20180104100640.6">
 
 
 						
@@ -839,6 +841,24 @@ GIMPPortable→用來剪裁圖片</t>
 <t tx="leo.20180104100640.7">### 與組員協同製作計算機基本功能
 
 使用github協同製作計算機基本功能包括加減乘除、等於、小白點、發現並且排除衝突。</t>
+<t tx="leo.20180110220338.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110220421.1">###心得
+剛開始做計算機的時候遇到了許多問題，但是藉由一次次的上課以及同學們的耐心指導，讓我對於計算機的製作越來越熟練，也讓我對python的程式語法有更進一步的認知，謝謝同學也謝謝老師的教導!</t>
+<t tx="leo.20180110220544.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110220544.2">#自評分數
+* 出席 20%：15
+* 平時表現 30%：23
+* 驗收考試 30%：18
+* 驗收簡報 20%：14
+* 總評：70分</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
