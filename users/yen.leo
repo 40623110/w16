@@ -90,7 +90,7 @@
 <v t="leo.20171109014309.2" a="E"><vh>eric6</vh>
 <v t="leo.20171109015228.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20171116214440.1" a="E"><vh>筆記</vh>
+<v t="leo.20171116214440.1"><vh>筆記</vh>
 <v t="leo.20171116214507.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20171109025222.1" a="E"><vh>自評成績</vh>
@@ -98,8 +98,11 @@
 </v>
 </v>
 <v t="leo.20180104100118.1" a="E"><vh>w10-12</vh>
-<v t="leo.20180104100118.2" a="E"><vh>上課大綱</vh>
+<v t="leo.20180104100118.2"><vh>上課大綱</vh>
 <v t="leo.20180104100118.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20180111011456.1" a="E"><vh>github指令</vh>
+<v t="leo.20180111011504.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20180104100118.4" a="E"><vh>學習計算機輸入數字寫法</vh>
 <v t="leo.20180104100118.5"><vh>內容</vh></v>
@@ -126,6 +129,9 @@
 </v>
 <v t="leo.20180104100640.6" a="E"><vh>與組員協同製作計算機基本功能</vh>
 <v t="leo.20180104100640.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20180111004302.1" a="E"><vh>筆記</vh>
+<v t="leo.20180111004302.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20180110220338.1" a="E"><vh>心得</vh>
 <v t="leo.20180110220421.1"><vh>內容</vh></v>
@@ -711,7 +717,7 @@ width="500" height="300"&gt;&lt;/a&gt;
 
 						
 </t>
-<t tx="leo.20180104100118.11"># github創建
+<t tx="leo.20180104100118.11">#github創建
 
 創建github帳號，建立一個新的repository來先熟悉github的基本操作跟設定方式。
 </t>
@@ -724,10 +730,9 @@ width="500" height="300"&gt;&lt;/a&gt;
 
 						
 </t>
-<t tx="leo.20180104100118.13"># 計算機表單繼承方法 
+<t tx="leo.20180104100118.13">#計算機製作過程 
 
-###學習如何繼承run.py與計算機按鈕
-
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/cyyHVBAOFNE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20180104100118.2">&lt;section data-markdown&gt;
@@ -741,6 +746,7 @@ width="500" height="300"&gt;&lt;/a&gt;
 </t>
 <t tx="leo.20180104100118.3"># W10-W12 檢討週
 
+* 認識github的指令
 * 學習計算機輸入數字寫法
 * 自訂義啟動與關閉
 * DiaPortable 與 GIMPPortable 的使用 
@@ -757,7 +763,7 @@ width="500" height="300"&gt;&lt;/a&gt;
 
 						
 </t>
-<t tx="leo.20180104100118.5">## 學習計算機輸入數字寫法
+<t tx="leo.20180104100118.5">#學習計算機輸入數字寫法
 
 (for迴圈簡化程式)
 
@@ -778,9 +784,9 @@ width="500" height="300"&gt;&lt;/a&gt;
 
 						
 </t>
-<t tx="leo.20180104100118.7">### 自訂義啟動與關閉
+<t tx="leo.20180104100118.7">#自訂義的啟動與關閉
 
-改寫start.bat與stop.bat成自訂義形式</t>
+改寫start.bat與stop.bat成自訂義形式。比如:start.bat的時候，會同時開啟Leo或是出現更多的cmd或SciTE。</t>
 <t tx="leo.20180104100118.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -811,7 +817,7 @@ GIMPPortable→用來剪裁圖片</t>
 
 						
 </t>
-<t tx="leo.20180104100640.3"># W13-W15 專案執行週
+<t tx="leo.20180104100640.3">#W13-W15 專案執行週
 
 * 創建EtherCalc表單
 * 與組員協同製作計算機基本功能
@@ -827,7 +833,7 @@ GIMPPortable→用來剪裁圖片</t>
 
 						
 </t>
-<t tx="leo.20180104100640.5">## 創建EtherCalc表單
+<t tx="leo.20180104100640.5">#創建EtherCalc表單
 
 創建EtherCalc表單
 
@@ -842,7 +848,7 @@ GIMPPortable→用來剪裁圖片</t>
 
 						
 </t>
-<t tx="leo.20180104100640.7">### 與組員協同製作計算機基本功能
+<t tx="leo.20180104100640.7">#與組員協同製作計算機基本功能
 
 使用github協同製作計算機基本功能包括加減乘除、等於、小白點、發現並且排除衝突。</t>
 <t tx="leo.20180110220338.1">&lt;section data-markdown&gt;
@@ -850,7 +856,7 @@ GIMPPortable→用來剪裁圖片</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110220421.1">###心得
+<t tx="leo.20180110220421.1">#心得
 剛開始做計算機的時候遇到了許多問題，但是藉由一次次的上課以及同學們的耐心指導，讓我對於計算機的製作越來越熟練，也讓我對python的程式語法有更進一步的認知，謝謝同學也謝謝老師的教導!</t>
 <t tx="leo.20180110220544.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -858,11 +864,36 @@ GIMPPortable→用來剪裁圖片</t>
     &lt;/script&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180110220544.2">#自評分數
-* 出席 20%：15
+* 出席 20%：18
 * 平時表現 30%：23
 * 驗收考試 30%：18
 * 驗收簡報 20%：14
-* 總評：70分</t>
+* 總評：73分</t>
+<t tx="leo.20180111004302.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180111004302.2">#上課筆記
+
+&lt;a href="https://cpa.kmol.info/40623110/raw/f16863610b0b3e595cf5f6f6d0aa3614b793bfb86971549ca48f57b3de34032e?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/f16863610b0b3e595cf5f6f6d0aa3614b793bfb86971549ca48f57b3de34032e?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623110/raw/7a1e9b65f815d0790d5db3c253a7d1e1bea556d9129015f0b19034b294d4d23b?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/7a1e9b65f815d0790d5db3c253a7d1e1bea556d9129015f0b19034b294d4d23b?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623110/raw/f0e7f2c915026e86f1e9abd59b52c188c6e4aec46bcdc8ce59e71fc14d44714d?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/f0e7f2c915026e86f1e9abd59b52c188c6e4aec46bcdc8ce59e71fc14d44714d?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623110/raw/05a44938bf15b1f6e66c73a991487d204f996fcb541aafcb77d2dbbb341cb611?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/05a44938bf15b1f6e66c73a991487d204f996fcb541aafcb77d2dbbb341cb611?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623110/raw/3fb12804cf5fa2968f50018c2c0290eb5cfc86b9233885692ae8c229ff24a47e?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623110/raw/3fb12804cf5fa2968f50018c2c0290eb5cfc86b9233885692ae8c229ff24a47e?m=image/jpeg" width="250" height="400"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180111011456.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180111011504.1">#github常用指令
+*git clone 網址.git files name
+*git add .
+*git commit -m "xxx"
+*git push
+*git pull</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
