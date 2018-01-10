@@ -850,7 +850,7 @@ GIMPPortable→用來剪裁圖片</t>
 </t>
 <t tx="leo.20180104100640.7">#與組員協同製作計算機基本功能
 
-使用github協同製作計算機基本功能包括加減乘除、等於、小白點、發現並且排除衝突。</t>
+使用github協同製作計算機基本功能包括加減乘除、等於、小數點、發現並且排除衝突。</t>
 <t tx="leo.20180110220338.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
