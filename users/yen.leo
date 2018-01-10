@@ -833,7 +833,11 @@ GIMPPortable→用來剪裁圖片</t>
 
 用表格來記錄自己的概念、知識、執行力、自學力、想像力。
 </t>
-<t tx="leo.20180104100640.6">
+<t tx="leo.20180104100640.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
 						
